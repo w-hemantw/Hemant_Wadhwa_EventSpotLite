@@ -39,8 +39,8 @@ To run this project locally, follow these steps:
 2. Use the search bar to filter events and click on an event to see more details.
 
 ### Technologies Used
-React
-Tailwind CSS
-JavaScript
-HTML
-CSS
+React  
+Tailwind CSS   
+JavaScript  
+HTML  
+CSS  
