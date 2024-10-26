@@ -24,13 +24,11 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/w-hemantw/Eventspot-Lite.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory:  
     cd eventspot-lite
-
-3. Install the dependencies:
-    npm install
-
-4. Start the development server:
+3. Install the dependencies:  
+    npm install  
+4. Start the development server:  
     npm start
 
 
