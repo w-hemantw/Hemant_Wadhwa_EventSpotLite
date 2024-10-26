@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "Diwali Festival Celebration",
+      "date": "2024-11-01",
+      "location": "Delhi",
+      "description": "Join us for the grand Diwali celebration in the heart of the city, featuring fireworks, cultural performances, and delicious food.",
+      "image": "/images/diwali-celebration.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "International Film Festival",
+      "date": "2024-11-10",
+      "location": "Goa",
+      "description": "Showcasing the best of international cinema, this festival will feature screenings, discussions, and workshops.",
+      "image": "/images/film-festival.png"
+    },
+    {
+      "id": 3,
+      "title": "Surajkund Mela",
+      "date": "2024-11-15",
+      "location": "Faridabad, Haryana",
+      "description": "A vibrant fair celebrating Indian handicrafts, handlooms, and cuisines, featuring stalls from various states.",
+      "image": "/images/surajkund.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mumbai Marathon",
+      "date": "2024-11-25",
+      "location": "Mumbai",
+      "description": "Join thousands of runners in the annual Mumbai Marathon, with multiple categories for all age groups.",
+      "image":"/images/mumbai-marathon.png"
+    },
+    {
+      "id": 5,
+      "title": "Rath Yatra Festival",
+      "date": "2024-12-01",
+      "location": "Puri, Odisha",
+      "description": "Experience the colorful Rath Yatra, where massive chariots of Lord Jagannath are pulled through the streets.",
+      "image": "/images/rath-yatra.png"
+    },
+    {
+      "id": 6,
+      "title": "Bangalore Tech Summit",
+      "date": "2024-11-29",
+      "location": "Bangalore",
+      "description": "A premier tech conference showcasing innovations in technology and startup culture in India.",
+      "image": "/images/tech-submit.webp"
+    }
+]
