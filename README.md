@@ -22,8 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/w-hemantw/Eventspot-Lite.git
-
+   git clone https://github.com/w-hemantw/Hemant_Wadhwa_EventSpotLite.git
 2. Navigate to the project directory:  
     cd eventspot-lite
 3. Install the dependencies:  
